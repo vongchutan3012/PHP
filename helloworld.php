@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 <?php
-echo "My first PHP script!";
-?>
+// Hello, World! PHP program
 
-</body>
-</html>
+echo "Hello, World!";
+?>
